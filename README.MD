@@ -11,3 +11,4 @@ VERY IMPORTANT [ANNOUNCEMENT](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 9. commit by Meilyn
 10. commit by Tristan 
 11. commit by Gokhan
+12  .commit by Ali
